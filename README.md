@@ -147,6 +147,7 @@ annotate the first revision in the review. They must conform to the
 
   - [Eclipse](https://github.com/google/git-appraise-eclipse)
   - [Jenkins](https://github.com/jenkinsci/google-git-notes-publisher-plugin)
+  - [VSCode](https://github.com/yne/git-appraise-vscode)
 
 ### Mirrors to other systems
 
